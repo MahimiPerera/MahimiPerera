@@ -5,7 +5,7 @@
 
 - 🎓 I’m an undergraduate **at SLIIT**
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **MERN**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
